@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+gym
+chefshatgym
+tqdm
+pandas
